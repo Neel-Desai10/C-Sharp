@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\program9\\Program9.csproj": {}
+    "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\Program9\\Program9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\program9\\Program9.csproj": {
+    "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\Program9\\Program9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\program9\\Program9.csproj",
+        "projectUniqueName": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\Program9\\Program9.csproj",
         "projectName": "Program9",
-        "projectPath": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\program9\\Program9.csproj",
+        "projectPath": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\Program9\\Program9.csproj",
         "packagesPath": "C:\\Users\\cr7nd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\program9\\obj\\",
+        "outputPath": "C:\\Users\\cr7nd\\Desktop\\WORK\\C sharp\\Program9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

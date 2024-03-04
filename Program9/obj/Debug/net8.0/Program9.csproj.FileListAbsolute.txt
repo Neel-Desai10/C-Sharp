@@ -12,3 +12,4 @@ C:\Users\cr7nd\Desktop\WORK\C sharp\Program9\obj\Debug\net8.0\refint\Program9.dl
 C:\Users\cr7nd\Desktop\WORK\C sharp\Program9\obj\Debug\net8.0\Program9.pdb
 C:\Users\cr7nd\Desktop\WORK\C sharp\Program9\obj\Debug\net8.0\Program9.genruntimeconfig.cache
 C:\Users\cr7nd\Desktop\WORK\C sharp\Program9\obj\Debug\net8.0\ref\Program9.dll
+C:\Users\cr7nd\Desktop\WORK\C sharp\Program9\obj\Debug\net8.0\Program9.sourcelink.json
